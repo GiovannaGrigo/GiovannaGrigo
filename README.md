@@ -14,8 +14,8 @@
 </div>
 
 <div align="center">
-  [![Giovanna's GitHub stats](https://github-stats-extended.vercel.app/api?username=giovannagrigo)](https://github.com/stats-organization/github-stats-extended)
-  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=GiovannaGrigo&layout=compact&theme=radical&count_private=true">
+  <img height="200" src="https://github-stats-extended.vercel.app/api?username=giovannagrigo&theme=radical&count_private=true">
+  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=giovannagrigo&langs_count=4&theme=radical&count_private=true">
 </div>
 
 <div align="center" style="display: inline_block"><br>
