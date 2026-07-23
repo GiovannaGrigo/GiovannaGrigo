@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  [![Giovanna's GitHub stats](https://github-stats-extended.vercel.app/api?username=GiovannaGrigo)](https://github.com/stats-organization/github-stats-extended)
+  [![Giovanna's GitHub stats](https://github-stats-extended.vercel.app/api?username=giovannagrigo)](https://github.com/stats-organization/github-stats-extended)
   <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=GiovannaGrigo&layout=compact&theme=radical&count_private=true">
 </div>
 
