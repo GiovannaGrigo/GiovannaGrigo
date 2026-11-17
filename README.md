@@ -23,7 +23,7 @@ My main stack is **Angular + .NET**, but I also enjoy exploring everything aroun
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,ts,js,html,css,postgres,docker&theme=dark&perline=9" alt="Technologies">
+  <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,ts,js,html,css,postgres,docker,git,github&theme=dark&perline=11" alt="Technologies">
 </div>
 
 <br>
