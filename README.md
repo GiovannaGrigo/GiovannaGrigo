@@ -28,44 +28,6 @@ My main stack is **Angular + .NET**, but I also enjoy exploring everything aroun
 
 <br>
 
-### Featured projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎬 SeenIt</h3>
-      <p>
-        A web application for tracking TV shows, episodes,
-        reactions and favorite characters.
-      </p>
-      <p><strong>Stack</strong></p>
-      <p>
-        Angular · PrimeNG · .NET<br>
-        PostgreSQL · Docker
-      </p>
-      <a href="https://github.com/GiovannaGrigo/SeenIt">
-        <strong>View repository →</strong>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐉 Dragon Ball Cursor Tracking</h3>
-      <p>
-        An interactive Angular experience featuring
-        cursor tracking, animations and dynamic interfaces.
-      </p>
-      <p><strong>Stack</strong></p>
-      <p>
-        Angular · TypeScript · CSS
-      </p>
-      <a href="https://github.com/GiovannaGrigo/DragonBall-CursorTracking">
-        <strong>View repository →</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
 <div align="center">
   <img
     align="top"
