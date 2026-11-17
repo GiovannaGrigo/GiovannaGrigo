@@ -1,45 +1,84 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=header"/>
-
-<!-- <div align="center">
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
-</div> -->
 
 <div align="center">
-  
-  <b>`Live long and prosper 🖖`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Giovanna Grigolato</b>
-  </samp>
+  <h1>Hi, I'm Giovanna Grigolato 👋</h1>
+  <h3>Full Stack Developer</h3>
+  <p>Turning ideas into code, one project at a time.</p>
+  <code>Live long and prosper 🖖</code>
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/giovanna-grigolato/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
+<br>
+
+---
+
+### About me
+
+I'm a software developer passionate about turning ideas into real applications.
+
+My main stack is **Angular + .NET**, but I also enjoy exploring everything around software development — from APIs and databases to containers, integrations and deployment.
+
+<br>
 
 <div align="center">
-  <img height="200" src="https://github-stats-extended.vercel.app/api?username=giovannagrigo&theme=radical&count_private=true">
-  <img height="195" src="https://github-stats-extended.vercel.app/api/top-langs/?username=giovannagrigo&langs_count=4&theme=radical&count_private=true">
+  <img src="https://skillicons.dev/icons?i=angular,cs,dotnet,ts,js,html,css,postgres,docker&theme=dark&perline=9" alt="Technologies">
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Gi-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Gi-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gi-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Gi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<br>
 
-##
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎬 SeenIt</h3>
+      <p>
+        A web application for tracking TV shows, episodes,
+        reactions and favorite characters.
+      </p>
+      <p><strong>Stack</strong></p>
+      <p>
+        Angular · PrimeNG · .NET<br>
+        PostgreSQL · Docker
+      </p>
+      <a href="https://github.com/GiovannaGrigo/SeenIt">
+        <strong>View repository →</strong>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐉 Dragon Ball Cursor Tracking</h3>
+      <p>
+        An interactive Angular experience featuring
+        cursor tracking, animations and dynamic interfaces.
+      </p>
+      <p><strong>Stack</strong></p>
+      <p>
+        Angular · TypeScript · CSS
+      </p>
+      <a href="https://github.com/GiovannaGrigo/DragonBall-CursorTracking">
+        <strong>View repository →</strong>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/giovanna-grigolato/)
-  
+  <img
+    align="top"
+    src="https://github-stats-extended.vercel.app/api?username=giovannagrigo&theme=radical&count_private=true"
+    width="390"
+    height="168"
+    alt="GitHub Stats"
+  />
+  <img
+    align="top"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=giovannagrigo&layout=compact&langs_count=6&card_width=390&theme=radical"
+    width="390"
+    height="168"
+    alt="Most Used Languages"
+  />
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&customColorList=33&section=footer"/>
